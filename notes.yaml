@@ -1,0 +1,7 @@
+spring:
+   wiring:
+      definition: El acto de crear asociaciones entre componentes de aplicaciones
+   application context:
+      definition: carga los bean definidos y los une
+   ClassPathXmlApplicationContext:
+      definition: se usa para obtener el contexto de un XML
